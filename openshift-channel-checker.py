@@ -11,11 +11,11 @@ from packaging.version import parse as parse_version
 
 # Extended channels (add/remove as needed)
 CHANNELS = [
-    "stable-4.16", "fast-4.16", "candidate-4.16",
-    "stable-4.17", "fast-4.17", "candidate-4.17",
-    "stable-4.18", "fast-4.18", "candidate-4.18",
-    "stable-4.19", "fast-4.19", "candidate-4.19",
-    "stable-4.20", "fast-4.20", "candidate-4.20",
+#    "stable-4.16", "fast-4.16", "candidate-4.16",
+#    "stable-4.17", "fast-4.17", "candidate-4.17",
+#    "stable-4.18", "fast-4.18", "candidate-4.18",
+#    "stable-4.19", "fast-4.19", "candidate-4.19",
+#    "stable-4.20", "fast-4.20", "candidate-4.20",
     "stable-4.21", "fast-4.21", "candidate-4.21",
     "stable-4.21", "fast-4.21", "candidate-4.21",
     "stable-4.22", "fast-4.22", "candidate-4.22",
