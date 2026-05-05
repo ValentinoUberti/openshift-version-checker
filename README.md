@@ -24,3 +24,6 @@ Simply execute the script. It will iterate through the configured channels and p
 ```bash
 python openshift_version_checker.py
 ```
+
+# Sample output
+![output](./images/output.png)
