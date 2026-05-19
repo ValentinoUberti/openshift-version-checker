@@ -17,7 +17,6 @@ CHANNELS = [
 #    "stable-4.19", "fast-4.19", "candidate-4.19",
 #    "stable-4.20", "fast-4.20", "candidate-4.20",
     "stable-4.21", "fast-4.21", "candidate-4.21",
-    "stable-4.21", "fast-4.21", "candidate-4.21",
     "stable-4.22", "fast-4.22", "candidate-4.22",
     "stable-4.23", "fast-4.23", "candidate-4.23",
     "stable-5.0", "fast-5.0", "candidate-5.0",
